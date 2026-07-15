@@ -1,0 +1,125 @@
+{
+  "cities": [
+    {
+      "cityName": "Manila",
+      "country": "Philippines",
+      "emoji": "🇵🇭",
+      "date": "2026-07-07T10:15:30.000Z",
+      "notes": "Incredible energy and rich history in Intramuros!",
+      "position": {
+        "lat": 14.599512,
+        "lng": 120.984222
+      },
+      "id": "41829501"
+    },
+    {
+      "cityName": "Singapore",
+      "country": "Singapore",
+      "emoji": "🇸🇬",
+      "date": "2026-05-14T18:22:11.452Z",
+      "notes": "Super clean, efficient, and the hawker centers are elite. 🍜",
+      "position": {
+        "lat": 1.352083,
+        "lng": 103.819836
+      },
+      "id": "88301942"
+    },
+    {
+      "cityName": "Hong Kong",
+      "country": "Hong Kong",
+      "emoji": "🇭🇰",
+      "date": "2026-03-22T09:45:18.115Z",
+      "notes": "The view of Victoria Harbour at night is unmatched.",
+      "position": {
+        "lat": 22.319303,
+        "lng": 114.169361
+      },
+      "id": "29471053"
+    },
+    {
+      "cityName": "Macau",
+      "country": "China",
+      "emoji": "🇲🇴",
+      "date": "2026-02-28T16:40:22.102Z",
+      "notes": "Loved the blend of Portuguese architecture and modern resorts. Had the best egg tarts!",
+      "position": {
+        "lat": 22.198745,
+        "lng": 113.543873
+      },
+      "id": "63910482"
+    },
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2026-01-10T14:05:00.623Z",
+      "notes": "A perfect blend of futurism and deep-rooted tradition. Amazing 😃",
+      "position": {
+        "lat": 35.676192,
+        "lng": 139.650311
+      },
+      "id": "56193048"
+    },
+    {
+      "cityName": "Kyoto",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2025-12-15T09:12:33.401Z",
+      "notes": "Stunning shrines and bamboo forests. Very peaceful compared to Tokyo.",
+      "position": {
+        "lat": 35.011564,
+        "lng": 135.768149
+      },
+      "id": "34910572"
+    },
+    {
+      "cityName": "Kuala Lumpur",
+      "country": "Malaysia",
+      "emoji": "🇲🇾",
+      "date": "2025-11-05T11:30:44.912Z",
+      "notes": "The Petronas Twin Towers look stunning up close.",
+      "position": {
+        "lat": 3.139003,
+        "lng": 101.686855
+      },
+      "id": "10475839"
+    },
+    {
+      "cityName": "Perak",
+      "country": "Malaysia",
+      "emoji": "🇲🇾",
+      "date": "2025-10-12T13:05:18.000Z",
+      "notes": "This is where UTP is located, the students is nice and their facilities are amazing!",
+      "position": {
+        "lat": 4.37276,
+        "lng": 100.93291
+      },
+      "id": "77201948"
+    },
+    {
+      "cityName": "Lipa City",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2026-07-08T08:48:21.552Z",
+      "notes": "Where my babi lives!! I love her so much:3",
+      "position": {
+        "lat": "13.929761967903012",
+        "lng": "121.1710467379296"
+      },
+      "id": "orglgyx3DF8"
+    },
+    {
+      "cityName": "Malvar",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2026-07-08T10:18:49.247Z",
+      "notes": "My home",
+      "position": {
+        "lat": "14.041782834605145",
+        "lng": "121.15173339843751"
+      },
+      "id": "orPUzFC"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
