@@ -56,5 +56,5 @@ The app automatically parses the city data to generate a consolidated list of al
 <br />
 <b>List Management:</b> <br/>
 Users can easily manage their logs by deleting cities they no longer wish to track.<br/>
-<img src="assets/deleted_city.jpg" height="80%" width="80%" alt="Deleting a City"/>
+<img src="assets/deleted_city.png" height="80%" width="80%" alt="Deleting a City"/>
 </p>
